@@ -17,7 +17,7 @@ A command-line tool that converts Romaji (Roman alphabet) to Hiragana.
 ### Build from source
 
 ```bash
-git clone https://github.com/your-username/romahira.git
+git clone https://github.com/agtkh/romahira
 cd romahira
 make
 ```
