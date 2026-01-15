@@ -1,0 +1,14 @@
+# Compiled binary
+romahira
+
+# Object files
+*.o
+*.obj
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
